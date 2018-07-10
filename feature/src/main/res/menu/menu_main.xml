@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main_switch"
+        android:title="SWITCH PLAYERS" />
+    <item
+        android:id="@+id/menu_main_reset"
+        android:title="RESET" />
+</menu>
